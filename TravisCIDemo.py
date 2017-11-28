@@ -9,6 +9,5 @@ class TravisCIDemo(unittest.TestCase):
 		
 	def tearDown(self):
 		print 'Travis CI Test'
-
-if ___name___ == "___main___"
-	unittest.main()
+		
+unittest.main()
